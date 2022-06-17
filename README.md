@@ -15,23 +15,23 @@ Sample Listing:
  - Chapter 3: View Controls
     - Layout Gravity
     - Basic Views
-    - View Attributes
+    - View Attributesagdagasfhafhaf
     - Simple ListView
  - Chapter 4: User Interactions
    - Basic Click Handlers
    - Handling ListView Clicks
    - Action Bar
- - Chapter 5: User Flows
+ - Chapter 5: User Flowshafdhaefhaef
    - Explicit Intents
    - Implicit Intents
    - Intent with Results
  - Chapter 6: Networking
-   - Basic Image Download
+   - Basic Image Downloadhaefhaefn
    - AsyncTask
    - Smart Image Download
  - Chapter 7: Advanced Views
    - Toast Inputs
-   - Spinner Toast
+   - Spinner Toastadfadfhasfhafh
    - TimePicker
    - ProgressBar
    - GridView
